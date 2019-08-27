@@ -10,6 +10,6 @@ export class ChessMainComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-  }
+  }   
 
 }
